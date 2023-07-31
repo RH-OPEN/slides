@@ -6,9 +6,10 @@
 <p><a href="https://ansible.github.io/slides">本サイト</a></p>
 
 - [一般](#一般)
-- [EDA - Event-Driven Ansible](#eda---Event-Driven-ansible)
+- [Release information](#release-information)
+- [EDA - Event-Driven Ansible](#eda---event-driven-ansible)
 - [エッジの自動化](#エッジの自動化)
-- [ハイブリットクラウドの自動化](#ハイブリッドクラウドの自動化)
+- [ハイブリッドクラウドの自動化](#ハイブリッドクラウドの自動化)
   - [パブリッククラウド](#パブリッククラウド)
   - [オンクラウド](#オンクラウド)
   - [クラウドネイティブ](#クラウドネイティブ)
@@ -47,7 +48,7 @@
 <tr>
 <td>Ansible Automation Platform: サブスクリプションの価値</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1wFt85sIqBAUE_T1AoY8pLcC5hl_9FDWafUm_d2MX920/edit?usp=sharing">Google Source</a></td>
-<td>Coming soon!</td>
+<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=bea1a918-2b34-4867-b574-a925c5c6625f">Content Center</a></td>
 </tr>
 <tr>
 <td>Ansible Validated Content</td>
@@ -103,7 +104,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5
 <tr>
 <td>AAP 2.4 Overview (Jun 27, 2023)</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1JKvNpY4OEM2-gSZtxhciaBdkteMK2KoNNs05MP764Rc/">Google Source</a></td>
-<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=aca05fa8-c2ea-4c50-a881-5682d3f44298">Content Center</a></td>
+<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=9640db7b-064c-4074-8b76-6b7df5bf8cfe">Content Center</a></td>
 </tr>
 <tr>
 <td>AAP 2.3 Overview (Nov 29, 2022)</td>
@@ -132,7 +133,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5
 <tr>
 <td>Event-Driven Ansible - 101</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1hr2ocZPAQC8KzFyo5_ugxe9tfdiBnjZlcCGs8krST5A/">Google Source</a></td>
-<td>Coming soon!</td>
+<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=226194e6-1634-4654-b676-31c5d460b8bd">Content Center</a></td>
 </tr>
 <tr>
 <td>Event-Driven Ansible - 201</td>
@@ -144,11 +145,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1fEP54hMx45zHmXmmUvW5CPCyXGbN0GsWaFJ2ntzVs3k/">Google Source</a></td>
 <td>Coming soon!</td>
 </tr>
-<tr>
-<td>アーキテクチャーガイド</td>
-<td><a target="_blank" href="https://docs.google.com/document/d/1uX2Z6Do8vj4bBownhZD2bYUoMQUOyvS5WqF5Ng7DGGY/edit?usp=sharing">Google Source</a></td>
-<td>Coming soon!</td>
-</tr>
+
 </tbody>
 </table>
 
@@ -195,7 +192,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5
 <tr>
 <td>Hybrid Cloud Automation 101 - Introduction</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/18GNw9U2iEqS1YyiqgFSOvTxnWGuybQrbOmoWumJpt-U/">Google Source</a></td>
-<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=3a2738a8-f69b-42b3-bf55-e24b2df1d7ca">Content Center</a></td>
+<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=a7903c60-c3fc-4c18-a604-7a274b568c6b">Content Center</a></td>
 </tr>
 </tbody>
 </table>
@@ -217,12 +214,12 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5
 <tr>
 <td>Ansible Public Cloud  - 201</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1fwiRitEGIoiv5acYtg49lBhmMXl8ZZNaUlpvudjM_2I/">Google Source</a></td>
-<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=cd3b67b0-8949-44d6-acac-7dcd3221b77a">Content Center</a></td>
+<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=0f8132c2-9bff-4198-9edc-d198ef266621">Content Center</a></td>
 </tr>
 <tr>
 <td>Ansible Public Cloud  - 301</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1Vh3lMYJZFFsJkuupw0NPfbQOfS88O7nPoBUmDqly_d8/">Google Source</a></td>
-<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=226ef383-7de5-4968-9364-5e5ee2b344bc">Content Center</a></td>
+<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=f1ec1aef-0412-487b-a16f-46ba33320206">Content Center</a></td>
 </tr>
 </tbody>
 </table>
@@ -278,7 +275,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5
 <tr>
 <td>Ansible クラウドネイティブ - 201</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1mr6DwUMlvh13Lk9Ruh_-ILANIPFNXIjZ9kR7shdThhI/">Google Source</a></td>
-  <td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=3b221f1b-fd10-4c94-9961-e0ab4123508d">Content Center</a></td>
+  <td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=0da0ed9e-c6de-4ddf-9082-7d42c551b7ca">Content Center</a></td>
 </tr>
 <tr>
 <td>Ansible クラウドネイティブ - 301</td>
@@ -305,12 +302,12 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5
 <tr>
 <td>Ansible プライベートクラウド - 201</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1G0N2gcprR_SVKZJk6dBCs5nelBq-nAkOeAHuWVmix0w/">Google Source</a></td>
-  <td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=bf99e5a3-33e7-49e2-a38d-df8deda4d044">Content Center</a></td>
+  <td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=ab4c475f-2434-4924-b927-b9f083d4108f">Content Center</a></td>
 </tr>
 <tr>
 <td>Ansible プライベートクラウド - 301</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1rNDTUJaQ0fozuLqIeDEr4BuF1yXpNvqSwXalrV4WO90/">Google Source</a></td>
-<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=77b96e31-b4c7-464a-aa00-ec961e357539">Content Center</a></td>
+<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=c2611445-31cc-45a1-b332-c394d7a45c34">Content Center</a></td>
 </tr>
 </tbody>
 </table>
@@ -363,12 +360,12 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5
 <tr>
 <td>Ansible ネットワーク自動化 - 201</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1cHAuyt4p4r0vKmoi5w2svnI0GGyjRkTycjgwY_uFPJs/">Google Source</a></td>
-<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=ad2c882f-93e7-4bd8-b7bb-e8abb05b7005">Content Center</a></td>
+<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=8dde1a1a-e829-49b0-a7dd-91c5d75e321e">Content Center</a></td>
 </tr>
 <tr>
 <td>Ansible ネットワーク自動化 - 301</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1KIwPMXy8fKFkoB0kyXj_yQpVkYDcNuwNKz66Ldf_8BA/">Google Source</a></td>
-<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=f40a3f3a-0de9-40fb-b96a-7bcccde8ff3d">Content Center</a></td>
+<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=0c0f2b12-abef-4e44-8b12-c0d1e1328046">Content Center</a></td>
 </tr>
 </tbody>
 </table>
@@ -387,17 +384,17 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5
 <tr>
 <td>Ansible インフラ自動化 - 101</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1jepKr7iK8_gd8kMZlgjGponFPkiAT_D7ooGh9CLdPZY/">Google Source</a></td>
-<td>Coming Soon!</td>
+<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=2f2417f8-fa68-44e4-a6f3-837a1f9c254e">Content Center</a></td>
 </tr>
 <tr>
 <td>Ansible インフラ自動化 - 201</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1yVG58w4Iq2Py3don2sc3gHXAv1bA-mn1GGsijukqAT0/">Google Source</a></td>
-<td>Coming soon!</td>
+<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=3e72899a-59d7-4ef7-a461-026175c24f01">Content Center</a></td>
 </tr>
 <tr>
 <td>Ansible インフラ自動化 - 301</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1Za7_Gn1NSPdz4AGsZbXXA6JFsw6GFy-UIXJu9wqW_Og/">Google Source</a></td>
-<td><a target="_blank" href="https://content.redhat.com/us/en/assets/display.html?id=58d11f4e-18e1-4244-97c5-394f4aab9dc1">Content Center</a></td>
+<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=00e9eada-c982-413d-84c6-4d768d7c9308">Content Center</a></td>
 </tr>
 </tbody>
 </table>
