@@ -133,7 +133,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5
 <tr>
 <td>Event-Driven Ansible - 101</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1hr2ocZPAQC8KzFyo5_ugxe9tfdiBnjZlcCGs8krST5A/">Google Source</a></td>
-<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=226194e6-1634-4654-b676-31c5d460b8bd">Content Center</a></td>
+<td>Coming soon!</td>
 </tr>
 <tr>
 <td>Event-Driven Ansible - 201</td>
