@@ -38,7 +38,7 @@
 <tr>
 <td>Ansible Automation Platform テクニカルデッキ for SSP & SA</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/1EHYX1ob8UkHYoJKvC6371BQVMNqAyPBYdRJYpU_PpYE/edit?usp=drive_link">Google Source</a></td>
-<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=fef5f002-63e7-415c-9c0a-595bb28d6c18">Content Center</a></td>
+<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=616db7ea-d29e-4c1e-b93d-4f70e8b6249f">Content Center</a></td>
 </tr>
 <tr>
 <td>テクニカルロードマップ</td>
@@ -280,7 +280,7 @@ and <a target="_blank" href="https://docs.google.com/presentation/d/190gZ4Eej2M5
 <tr>
 <td>Ansible クラウドネイティブ - 301</td>
 <td><a target="_blank" href="https://docs.google.com/presentation/d/17irXtCOCmZg9bvhNj1N-XAUlHcl9ea7I9O56sS0UHLU/">Google Source</a></td>
-<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=2eef02ae-24ef-4e99-a40c-6bf7787c0694">Content Center</a></td>
+<td><a target="_blank" href="https://content.redhat.com/content/rhcc/us/en/assets/display.html?id=b9012cfb-df25-4185-8c06-bd9c95d25f7d">Content Center</a></td>
 </tr>
 </tbody>
 </table>
